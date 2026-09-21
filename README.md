@@ -1,61 +1,59 @@
 
-# Overview
+<!-- ===================== BANNER (opsional, nilai plus) ===================== -->
+<!--
+  Tips banner gratis:
+  - Buat banner sederhana di Canva lalu upload ke repo, atau
+  - Gunakan generator seperti https://capsule-render.vercel.app/
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Charles Jeonanto]&fontSize=40&fontColor=ffffff" alt="banner" />
+</p>
 
-Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halaman kartu profil interaktif dengan fitur dark mode dan like counter, dibuat sebagai study case Workshop Git & GitHub.")
-
----
-
-## Visualisasi
-
-<!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
-
-![Screenshot](link-screenshot-kamu.png)
-
-Live Demo: [link-demo-jika-ada](#)
-
----
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Git & GitHub
+<h1 align="center">[Charles Jeonanto]</h1>
+<p align="center">[Peserta Workshop Git & GitHub]</p>
 
 ---
 
-## Fitur Utama
+### Details / About Me
 
-- [ ] Toggle Dark Mode
-- [ ] Like Counter interaktif
-- [ ] Responsive layout
-- [ ] _(tambahkan fitur lain sesuai pengembangan kelompok)_
-
----
-
-
-## Contribution
-
-| [Nathawadhana Dharanindar] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Charles Jeonanto] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Prayata Tyaga Dimas Sudipyo] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+- **Pekerjaan Saat ini**: [Mahasiswa]
+- **Sedang mendalami**: [Git & GitHub Workflow]
+- **Target**: [Menjadi Frontend Developer profesional]
+- **Fun fact**: [Tak bisa diam]
 
 ---
 
-## How to Run
+### Connect with Me
 
-1. Clone repository ini:
-   ```bash
-   git clone <url-repo-kalian>
-   ```
-2. Buka folder hasil clone, lalu klik dua kali file `index.html` (atau klik kanan → Open with → Browser).
+<p align="left">
+  <a href="https://linkedin.com/in/CHARLES JEONANTO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/charlesj_28" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:charlesj2526@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## Feature Improvement
+---
 
-Ide pengembangan lanjutan jika project ini dilanjutkan, misalnya:
+### Tech Stack & Tools
 
-- Menyimpan status like counter ke `localStorage`
-- Menambahkan animasi transisi
-- Membuat halaman menjadi responsive penuh untuk mobile
-- Deploy otomatis via GitHub Actions ke GitHub Pages
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats (opsional)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=char2280&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
